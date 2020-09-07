@@ -6,9 +6,9 @@
     - Obtenció de dades
     - Explicació dataset
 
-2. Data Preparation / Data Cleaning
+2. Data Preparation / Data Preprocessing
 
-3. Data Analysis (Text Analysis)
+3. Data Analysis (Text Analysis/Cleaning)
 
 4. Feature selection
     - Explicació de les variables que utilitzem al model
