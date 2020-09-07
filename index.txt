@@ -11,7 +11,9 @@
 
 4. Data Analysis (Text Analysis)
 
-5. Model XGBoost
+5. Model XGBoost    
+    - Model senzill sense tokens
+    - Model amb tokens
 
 6. Resultats
 
