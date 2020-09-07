@@ -4,12 +4,14 @@
     - Plantejament del projecte
     - Objectiu del treball
     - Obtenció de dades
+    - Explicació dataset
 
-2. Explicació dataset
+2. Data Preparation / Data Cleaning
 
-3. Data Preparation / Data Cleaning
+3. Data Analysis (Text Analysis)
 
-4. Data Analysis (Text Analysis)
+4. Feature selection
+    - Explicació de les variables que utilitzem al model
 
 5. Model XGBoost    
     - Model senzill sense tokens (analitzar la importància de les variables del model)
