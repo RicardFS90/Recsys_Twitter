@@ -1,1 +1,18 @@
-Index del document a entregar
+ÍNDEX
+
+1. Introducció
+    - Plantejament del projecte
+    - Objectiu del treball
+    - Obtenció de dades
+
+2. Explicació dataset
+
+3. Data Preparation / Data Cleaning
+
+4. Data Analysis (Text Analysis)
+
+5. Model XGBoost
+
+6. Resultats
+
+7. Conclusió
