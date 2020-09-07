@@ -12,7 +12,7 @@
 4. Data Analysis (Text Analysis)
 
 5. Model XGBoost    
-    - Model senzill sense tokens
+    - Model senzill sense tokens (analitzar la importància de les variables del model)
     - Model amb tokens
 
 6. Resultats
